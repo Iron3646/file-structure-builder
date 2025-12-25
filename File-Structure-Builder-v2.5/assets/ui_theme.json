@@ -1,0 +1,9 @@
+{
+    "background": "#1e1e1e",
+    "foreground": "#ffffff",
+    "accent": "#00ffcc",
+    "status": "#00cc66",
+    "text_bg": "#2e2e2e",
+    "text_fg": "#ffffff",
+    "font": "Segoe UI"
+}

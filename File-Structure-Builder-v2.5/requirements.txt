@@ -1,0 +1,13 @@
+# Core dependencies for File Structure Builder v3.0
+# No external dependencies required - uses built-in Python libraries
+
+# For building executable (development only)
+pyinstaller>=5.0
+
+# Optional: For enhanced features
+# tkinter (built-in with Python)
+# threading (built-in with Python)
+# datetime (built-in with Python)
+# json (built-in with Python)
+# re (built-in with Python)
+# os (built-in with Python)
